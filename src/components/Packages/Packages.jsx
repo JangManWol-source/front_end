@@ -21,7 +21,10 @@ const Packages = () => {
         <div className="flex-2 flex">
           <div className="p-1">
             <div className="flex flex-col">
-              <Container title="Elite Business Package" className="h-3/4 p-5" />
+              <Container
+                title="New Business Owner Package"
+                className="h-3/4 p-5"
+              />
               <div className="mt-1">
                 <img src={book1} alt="" className="h-36 w-full object-cover" />
               </div>

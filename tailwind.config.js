@@ -12,6 +12,7 @@ module.exports = {
       },
       fontFamily: {
         'logo': 'Playfair Display',
+        'cursive': 'Allura'
       },
       height: {
         'line': '1px'
