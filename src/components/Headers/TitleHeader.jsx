@@ -2,7 +2,7 @@ import React from "react";
 
 const TitleHeader = (props) => {
   return (
-    <div className="bg-dark-late-gray lg:p-14 p-2">
+    <div className="bg-dark-late-gray lg:p-14 pr-2 pl-2 pt-10 pb-10">
       <div className="flex">
         <div className="h-line bg-salmon w-10"></div>
         <div className="ml-2">
