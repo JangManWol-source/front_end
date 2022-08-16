@@ -6,8 +6,8 @@ const Contacts = () => {
       name="LET'S WORK TOGETHER"
       className="w-full bg-milk flex justify-center p-4 leading-3"
     >
-      <div className=" w-11/12 lg:w-3/4  grid grid-cols-2">
-        <div className="font-logo">
+      <div className=" w-11/12 lg:w-1/2 grid grid-cols-2">
+        <div className="font-logo mr-1">
           Stay In <span className="italic">The Know</span>
           <br />
           <br />

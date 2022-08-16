@@ -31,7 +31,7 @@ const About = () => {
   ];
   return (
     <div name="ABOUT" className="w-full relative flex justify-center p-4">
-      <div className="flex w-11/12 lg:w-3/4 static">
+      <div className="flex w-11/12 lg:w-1/2 static">
         <div className="flex-1">
           <Title title="LOREM IPSUMS" />
           <br />
