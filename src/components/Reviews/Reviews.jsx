@@ -3,8 +3,8 @@ import Title from "../extracted/Title";
 
 const Reviews = () => {
   return (
-    <div name="BLOG">
-      <div className="p-4">
+    <div name="BLOG" className="flex justify-center p-4">
+      <div className=" w-11/12 lg:w-3/4 ">
         <div className="flex flex-row items-start justify-start">
           <div className="h-line bg-salmon w-10 mr-5"></div>
           <div className="text-salmon text-default">RAVING REVIEWS</div>

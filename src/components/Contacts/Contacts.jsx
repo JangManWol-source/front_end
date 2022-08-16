@@ -2,8 +2,11 @@ import React from "react";
 
 const Contacts = () => {
   return (
-    <div name="LET'S WORK TOGETHER" className="w-full bg-milk">
-      <div className="w-full grid grid-cols-2 p-10">
+    <div
+      name="LET'S WORK TOGETHER"
+      className="w-full bg-milk flex justify-center p-4"
+    >
+      <div className=" w-11/12 lg:w-3/4  grid grid-cols-2">
         <div className="font-logo">
           Stay In <span className="italic">The Know</span>
           <br />

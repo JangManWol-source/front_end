@@ -30,8 +30,8 @@ const About = () => {
     },
   ];
   return (
-    <div name="ABOUT" className="w-full relative">
-      <div className="flex p-4 w-full static">
+    <div name="ABOUT" className="w-full relative flex justify-center p-4">
+      <div className="flex w-11/12 lg:w-3/4 static">
         <div className="flex-1">
           <Title title="LOREM IPSUM" />
           <br />
@@ -46,7 +46,7 @@ const About = () => {
           </div>
         </div>
 
-        <div className="flex-1 w-full md:justify-center justify-end flex static">
+        <div className="flex-1 w-full justify-end flex static">
           <div className="bg-salmon h-full w-32 relative flex items-center">
             <img src={leaf} alt="" className="absolute h-1/2 -left-16" />
           </div>

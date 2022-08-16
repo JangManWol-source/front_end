@@ -2,8 +2,8 @@ import menus from "../Nav/Menus/Menus";
 import { Link } from "react-scroll";
 const Footer = () => {
   return (
-    <div className="w-full">
-      <div className="flex p-4 justify-between items-center">
+    <div className="w-full flex justify-center p-4">
+      <div className="flex w-11/12 lg:3/4 justify-between items-center">
         <div>
           {menus.map((each) => (
             <Link

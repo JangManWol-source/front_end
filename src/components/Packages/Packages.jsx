@@ -6,8 +6,8 @@ import book1 from "../../assets/book1.jpg";
 import book2 from "../../assets/book2.jpg";
 const Packages = () => {
   return (
-    <div name="SHOP" className="w-full bg-milk">
-      <div className="flex p-4 w-full flex-row-reverse justify-center">
+    <div name="SHOP" className="w-full flex justify-center p-4 bg-milk">
+      <div className="flex w-11/12 lg:w-3/4 flex-row-reverse justify-center">
         <div className="flex-1 text-dark-late-gray h-full pr-5 pl-5">
           <Title title="OUR PACKAGES" />
           <div className="font-logo">
