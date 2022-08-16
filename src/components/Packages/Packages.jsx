@@ -14,7 +14,7 @@ const Packages = () => {
             Just Starting Out Or Long Time Business Owner? We've Got You
             Covered!
           </div>
-          <PlusButton text="EXPLORE THE PACKAGES" />
+          <PlusButton text="EXPLORE THE PACKAGES" className="text-salmon" />
         </div>
 
         {/* grid1 */}

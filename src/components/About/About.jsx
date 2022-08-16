@@ -33,7 +33,7 @@ const About = () => {
     <div name="ABOUT" className="w-full relative flex justify-center p-4">
       <div className="flex w-11/12 lg:w-3/4 static">
         <div className="flex-1">
-          <Title title="LOREM IPSUM" />
+          <Title title="LOREM IPSUMS" />
           <br />
           {list.map((each) => (
             <div className="font-logo text-dark-late-gray" key={each.id}>
