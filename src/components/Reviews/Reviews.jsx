@@ -24,7 +24,7 @@ const Reviews = () => {
               similique, maiores enim maxime dolores ut reiciendis nemo? Ullam
               molestias delectus ipsam eveniet.
             </div>
-            <form className="text-default font-sans">
+            <form className="text-default font-sans w-full">
               <input
                 type="text"
                 placeholder="First name"

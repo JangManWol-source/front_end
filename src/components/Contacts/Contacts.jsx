@@ -4,17 +4,18 @@ const Contacts = () => {
   return (
     <div
       name="LET'S WORK TOGETHER"
-      className="w-full bg-milk flex justify-center p-4"
+      className="w-full bg-milk flex justify-center p-4 leading-3"
     >
       <div className=" w-11/12 lg:w-3/4  grid grid-cols-2">
         <div className="font-logo">
           Stay In <span className="italic">The Know</span>
           <br />
+          <br />
           <span className="text-default font-sans">
             Sign up with your email address to receive news and updates.
           </span>
           <br />
-          <form>
+          <form className="pt-2">
             <div className="h-10">
               <input
                 type="text"
