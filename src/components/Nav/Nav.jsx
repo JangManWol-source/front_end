@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import menus from "./Menus/Menus";
 import { Link } from "react-scroll";
 import { Squash as Hamburger } from "hamburger-react";
